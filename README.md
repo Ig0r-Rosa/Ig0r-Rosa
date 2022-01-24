@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**IgordaRosa/IgordaRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![KungFuPandaGIF](https://user-images.githubusercontent.com/88103676/150737099-e9dbdd6d-583c-4915-b150-6f9edfaa9873.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
