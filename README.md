@@ -1,4 +1,6 @@
+<div align="center">
 ### Olá, Bem vindo(a) ao meu perfil👋 Me chamo Igor da Rosa!
+</div>
 <div align="center">
   <a href="https://github.com/IgordaRosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgordaRosa&layout=compact&langs_count=7&theme=dracula"/>
@@ -19,7 +21,13 @@
 
 <div align="center">
 - 😸Me chamo Igor😸
+</div>
+<div align="center">
 - 🖥️Estudante de Engenharia de computação da UFSC🖥️
+</div>
+<div align="center">
 - ⌨️Sei programar em assembly, C, C++ e estou aprendendo modelagem🖱️
+</div>
+<div align="center">
 - ❤️Hobbies: Jogos e animes❤️
 </div>
