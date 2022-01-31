@@ -1,3 +1,5 @@
+
+
 <div align="center">
 ### Olá, Bem vindo(a) ao meu perfil👋 Me chamo Igor da Rosa!
 </div>
@@ -7,14 +9,8 @@
 </div>
 <div style="display: inline_block"><br>
 </div>
-  
-  ##
-  
-<div align="center"> 
-  ![AnonymousPepeGIF](https://user-images.githubusercontent.com/88103676/151736809-22d88e11-c2e2-42bf-8119-cf6d72fcfd89.gif)
-</div>
     
-  ##
+  
  
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCUKwq9gdk7JqjohMGKXHSnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -24,6 +20,8 @@
   <a href="https://www.linkedin.com/in/igor-de-matos-da-rosa-b86224219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  ##
 
 <div align="center">
 - 😸Me chamo Igor😸
@@ -37,3 +35,4 @@
 <div align="center">
 - ❤️Hobbies: Jogos e animes❤️
 </div>
+  
