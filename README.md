@@ -24,15 +24,15 @@
   ##
 
 <div align="center">
-- 😸Me chamo Igor😸
+😸Me chamo Igor😸
 </div>
 <div align="center">
-- 🖥️Estudante de Engenharia de computação da UFSC🖥️
+🖥️Estudante de Engenharia de computação da UFSC🖥️
 </div>
 <div align="center">
-- ⌨️Sei programar em assembly, C, C++ e estou aprendendo modelagem🖱️
+⌨️Sei programar em assembly, C, C++, C# e me viro bem com qualquer outra linguagem🖱️
 </div>
 <div align="center">
-- ❤️Hobbies: Jogos e animes❤️
+❤️Hobbies: Jogos e animes❤️
 </div>
   
