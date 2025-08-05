@@ -29,7 +29,7 @@
 🖥️Estudante de Engenharia de computação da UFSC🖥️
 </div>
 <div align="center">
-⌨️Sei programar em assembly, C, C++, C# e me viro bem com qualquer outra linguagem🖱️
+⌨️Sei programar em assembly, C, C++, C#, Python, JavaScript e PHP🖱️
 </div>
 <div align="center">
 ❤️Hobbies: Jogos e animes❤️
