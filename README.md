@@ -7,7 +7,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -22,7 +21,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -31,7 +29,6 @@ com experiência em **IA generativa, vibe coding** e desenvolvimento de sistemas
 
 </div>
 
----
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/igor-de-matos-da-rosa-b86224219/" target="_blank">
