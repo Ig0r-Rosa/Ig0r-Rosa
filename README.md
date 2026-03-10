@@ -18,6 +18,7 @@
 ![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux)
 ![MySQL](https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git)
+![n8n](https://img.shields.io/badge/n8n-333?style=flat-square&logo=n8n)
 
 </div>
 
